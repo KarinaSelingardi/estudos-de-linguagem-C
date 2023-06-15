@@ -1,0 +1,11 @@
+#include <stdio.h>
+
+look_up(char *nome){
+    
+    do{
+        /*procura nomes...*/
+        if(kbhit ()) break;/* a func kbhit retorna a 0 se vc nao pressionar nenhuma tecla*/
+        while(!found);
+        /*processa a concordancia*/
+    }
+}
